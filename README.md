@@ -2,5 +2,5 @@
 
 Created using Bootstrap 5.
 
-Show the page:- https://just-loginpage.netlify.app
+Show the page:- target="_blank" https://just-loginpage.netlify.app
 
